@@ -3,9 +3,6 @@
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <link href="style.css">
-  </head>
   <body>
     <h3>
     DAY 1
@@ -24,7 +21,7 @@
     DAY 3
     </h3>
     <p>
-    Today I sculpted the terrain for my dev map which the hmp is from abot an hour north of vancouver near squamish.<br>Also I have a name for the game <p id="awesomeName">INFINITE CREATION ONLINE</p>Its pretty cool tbh.
+    Today I sculpted the terrain for my dev map which the hmp is from abot an hour north of vancouver near squamish.<br>Also I have a name for the game <p><b>INFINITE CREATION ONLINE</b></p>Its pretty cool tbh.
     </p>
     
   </body>
