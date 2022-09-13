@@ -36,8 +36,14 @@
     <h2>
     DAY 5
     </h2>
-    <P>
+    <p>
     Today i started work on collescting the assets i need and the knowledge i need to implement the assets but we finally have a name for our studios "Yggdrasil studios" an a chief of business so we havent got any more devs but it will be easier to pitch the game to investors and i have my eyes on two potential candidates for our law teamso im probs gonna be on my own when it comes building the game for the foreseable future but im going to EGX soon so ill try and network some people there and spread news of the game there but all should go wellhopefully and im working on finding some artists to lift some of the load and ill have a server soon powered by the rasberry pi zero two so progress will start going super fast soon and when it is working at college ill have a base of operations to work from so watch this space and we at Yggdrasil studios are almost halfway to our goal of buying an oculus quest two to develop the vr implementation not just build the first floor of the game haha so wish us luck friends and I Holly will see you soon g'night.
-    </P>
+    </p>
+    <h2>
+    DAY 6
+    </h2>
+    <p>
+    unfortunately due to lack of funding Yggdrasil studios will be postponing the development of Infinite Creation online as we currently do not have the funding or the team to be able to commit currently however we will be working on some smaller games some paid and some with microtransactions however we will never use ads as we understand how annoying they are so if you are intrested in helping us we have two patreon tiers a 5 pound tier and a 10 pound tier each with different perks both great value but due to the current climate we are asking all people to only donate if they are financialy secure. we are also setting up a one time donation system where you can donate any amount.
+    </p>
   </body>
 </html>
